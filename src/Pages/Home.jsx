@@ -7,7 +7,7 @@ export const Home = () => {
         <div className="bg-[url('./public/images/banner.jpg')] h-[750px] w-full bg-cover bg-center flex flex-col justify-center items-center h-screen"> 
             <div className="text-center">
                 <div>
-                    <h1 className="text-5xl font-bold text-slate-50 "> Find Your Outdoors</h1>
+                    <h1 className="text-5xl font-bold text-slate-50 "> Find Your Outdoor</h1>
                     </div>
                     <div className="p-2 sm:p-4 md:p-6 lg:p-8">
                     
